@@ -10,6 +10,5 @@ class Factorial{
             factorial = factorial*i;
         }
         System.out.print("Factorial: "+factorial);
-
     }
 }
